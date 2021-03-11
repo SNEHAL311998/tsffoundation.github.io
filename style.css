@@ -94,7 +94,7 @@ width: 20px;
 border-radius: 50%;
 }
 .carousel-item {
-    height: 725px;
+    height: 757px;
     transition: transform 1s ease, opacity .5s ease-out
 }
 
